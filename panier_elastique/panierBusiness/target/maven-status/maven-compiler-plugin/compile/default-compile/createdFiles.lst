@@ -1,0 +1,4 @@
+afpa\cdi\elastique\panier\services\ServiceFiltre.class
+afpa\cdi\elastique\panier\beans\LigneFiltre.class
+afpa\cdi\elastique\panier\beans\BlocFiltre.class
+afpa\cdi\elastique\panier\beans\TestBean.class

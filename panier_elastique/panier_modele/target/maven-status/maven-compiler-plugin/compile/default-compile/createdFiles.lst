@@ -1,0 +1,7 @@
+afpa\cdi\elastique\panier\modele\Client.class
+afpa\cdi\elastique\panier\modele\Produit.class
+afpa\cdi\elastique\panier\modele\Famille.class
+afpa\cdi\elastique\panier\modele\SousFamille.class
+afpa\cdi\elastique\panier\modele\Marque.class
+afpa\cdi\elastique\panier\modele\Elastique.class
+afpa\cdi\elastique\panier\modele\Couleur.class
